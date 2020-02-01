@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "fanmakermod:blocks/test_ore",
-    "particle": "fanmakermod:blocks/test_ore"
-  }
-}
