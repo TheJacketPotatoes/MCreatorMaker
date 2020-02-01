@@ -1,0 +1,30 @@
+{
+  "group": "fanmakermod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "fanmakermod:testingot"
+    },
+    "1": {
+      "item": "fanmakermod:testingot"
+    },
+    "2": {
+      "item": "fanmakermod:testingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "fanmakermod:testaxe",
+    "count": 1
+  }
+}

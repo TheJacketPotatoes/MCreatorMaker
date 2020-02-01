@@ -1,0 +1,26 @@
+{
+  "group": "fanmakermod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "fanmakermod:testingot"
+    },
+    "2": {
+      "item": "fanmakermod:testingot"
+    },
+    "3": {
+      "item": "fanmakermod:testingot"
+    },
+    "5": {
+      "item": "fanmakermod:testingot"
+    }
+  },
+  "result": {
+    "item": "fanmakermod:testarmorboots",
+    "count": 1
+  }
+}

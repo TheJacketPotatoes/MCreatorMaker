@@ -1,0 +1,24 @@
+{
+  "group": "fanmakermod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "fanmakermod:testingot"
+    },
+    "1": {
+      "item": "fanmakermod:testingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "fanmakermod:testsword",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "fanmakermod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fanmakermod:testoreblock"
+    }
+  ],
+  "result": {
+    "item": "fanmakermod:testingot",
+    "count": 9
+  }
+}
